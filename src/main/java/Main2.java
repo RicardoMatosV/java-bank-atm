@@ -3,7 +3,9 @@ import java.util.Scanner;
 
 public class Main2 {
     public static void main(String[] args) {
-
+        System.out.println("******************************");
+        System.out.println("**  ENTORNO DE PRUEBAS PIN  **");
+        System.out.println("******************************");
         int attempts = 0;
         boolean flag_1 = false;
         while (attempts < 3) {
